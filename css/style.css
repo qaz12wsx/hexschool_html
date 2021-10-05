@@ -333,13 +333,8 @@ table {
 .footer {
   display: flex;
   justify-content: space-between;
-}
-.footer img {
-  width: 175px;
-  padding: 25px 0 40px 20px;
-}
-.footer .info {
-  padding: 25px 15px 0 0;
+  align-items: center;
+  padding: 20px;
 }
 .footer .info li {
   margin-bottom: 10px;
